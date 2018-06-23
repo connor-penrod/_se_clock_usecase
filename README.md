@@ -1,5 +1,5 @@
 
-![alt text](../blob/master/00UseCaseDiagram.png "Logo Title Text 1")
+![image not found](https://github.com/connor-penrod/_se_clock_usecase/blob/master/00UseCaseDiagram.png "Use Case Diagram")
 
 # View Time Use Case
 ### Name
