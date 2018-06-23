@@ -1,4 +1,6 @@
 
+![alt text](../blob/master/00UseCaseDiagram.png "Logo Title Text 1")
+
 # View Time Use Case
 ### Name
 View Time
